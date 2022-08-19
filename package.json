@@ -1,0 +1,16 @@
+{
+  "name": "TIOSpider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "node sample.js"
+  },
+  "type": "module",
+  "author": "whiterasbk",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "pako": "^2.0.4"
+  }
+}
