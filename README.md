@@ -2,7 +2,7 @@
 [TryItOnline](https://tio.run/#) is a site which support multiple programming languages 
 ## Run
 ```shell
-git clone 
+git clone https://github.com/whiterasbk/TryItOnlineSpider.git
 cd TryItOnlineSpider
 npm install
 node sample.js
